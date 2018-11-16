@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="load_contacts">Load Contacts</string>
+    <string name="msg_error">Couldn\'t get any contacts!</string>
+</resources>
